@@ -10,7 +10,7 @@
 		"author": "锟斤拷P", 
 		"difficulty": "Tough", 
 		"seizureWarning": false, 
-		"previewImage": "screenshot1.png", 
+		"previewImage": "", 
 		"syringeIcon": "", 
 		"previewSong": "", 
 		"previewSongStartTime": 69, 
@@ -51,7 +51,7 @@
 	[
 		{ "bar": 1, "beat": 1, "y": 1, "type": "SetTheme", "rooms": [0], "preset": "Garden", "variant": 1, "skipPaintEffects": false },
 		{ "bar": 1, "beat": 1, "y": 1, "type": "SetTheme", "rooms": [1], "preset": "Rooftop", "variant": 0, "skipPaintEffects": false },
-		{ "bar": 1, "y": 1, "type": "PlaySong", "song": {"filename": "珍珠.ogg", "offset": 235}, "bpm": 84, "loop": false },
+		{ "bar": 1, "y": 1, "type": "PlaySong", "song": {"filename": "珍珠.ogg", "offset": 200}, "bpm": 84, "loop": false },
 		{ "bar": 1, "beat": 1, "y": 0, "type": "SetClapSounds", "rowType": "Classic", "p1Sound": {"filename": "ReverbClap"} },
 		{ "bar": 1, "beat": 1, "y": 1, "type": "ShowRooms", "rooms": [0], "heights": [0, 0, 0, 0], "transitionTime": 1, "ease": "InOutSine" },
 		{ "bar": 1, "beat": 2, "y": 0, "type": "FloatingText", "rooms": [0], "id": 0, "text": "我/们/孤/身/闯/入/这/世/界/里", "times": "", "color": "FFFFFFFF", "outlineColor": "000000FF", "textPosition": [38, 62], "size": 8, "angle": 0, "showChildren": true, "fadeOutRate": 2, "mode": "FadeOut", "anchor": "MiddleCenter" },
